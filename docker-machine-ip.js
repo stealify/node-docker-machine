@@ -1,3 +1,4 @@
+// NOTE: Add Test Coverage from https://github.com/markelog/docker-ip
 import { execSync as exec } from 'child_process';
 
 function ip(type = 'default') {
